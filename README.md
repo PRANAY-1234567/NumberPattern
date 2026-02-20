@@ -4,7 +4,6 @@
 This Python program prints a **number triangle pattern** where each row displays numbers starting from **1 up to the row number**.
 
 ---
-
 ## ⚙️ Code
 
 ```python
